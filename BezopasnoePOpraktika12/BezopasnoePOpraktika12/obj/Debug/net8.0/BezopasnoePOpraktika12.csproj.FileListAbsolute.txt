@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\bin\Debug\net8.0\BezopasnoePOpraktika12.exe
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\bin\Debug\net8.0\BezopasnoePOpraktika12.deps.json
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\bin\Debug\net8.0\BezopasnoePOpraktika12.runtimeconfig.json
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\bin\Debug\net8.0\BezopasnoePOpraktika12.dll
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\bin\Debug\net8.0\BezopasnoePOpraktika12.pdb
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\BezopasnoePOpraktika12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\BezopasnoePOpraktika12.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\BezopasnoePOpraktika12.AssemblyInfo.cs
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\BezopasnoePOpraktika12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\BezopasnoePOpraktika12.dll
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\refint\BezopasnoePOpraktika12.dll
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\BezopasnoePOpraktika12.pdb
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\BezopasnoePOpraktika12.genruntimeconfig.cache
+C:\Users\User\source\repos\BezopasnoePOpraktika12\BezopasnoePOpraktika12\obj\Debug\net8.0\ref\BezopasnoePOpraktika12.dll
